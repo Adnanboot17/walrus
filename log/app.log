@@ -1,0 +1,1888 @@
+2024-10-25 14:03:04 [[32minfo[39m]: 
+2024-10-25 14:03:04 [[32minfo[39m]: Application Started
+2024-10-25 14:03:04 [[32minfo[39m]: BOT STARTED
+2024-10-25 14:03:04 [[32minfo[39m]: Log file cleared
+2024-10-25 14:03:04 [[32minfo[39m]: Account 1 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 2 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 3 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 4 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 5 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 6 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 7 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 8 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 9 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 10 - Getting Account Information...
+2024-10-25 14:03:05 [[32minfo[39m]: Account 11 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 12 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 13 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 13 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 15 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 15 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 17 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 18 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 19 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 20 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 21 - Getting Account Information...
+2024-10-25 14:03:06 [[32minfo[39m]: Account 22 - Getting Account Information...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 1 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 2 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 3 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 4 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 5 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 6 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 7 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 8 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 9 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 10 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 11 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 12 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 13 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 13 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 15 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 15 - Successfully Get Account Information
+2024-10-25 14:03:07 [[32minfo[39m]: Account 1 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 2 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 3 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 4 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 5 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 6 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 7 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 8 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 9 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 10 - Getting Account Balance...
+2024-10-25 14:03:07 [[32minfo[39m]: Account 11 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 12 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 13 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 17 - Successfully Get Account Information
+2024-10-25 14:03:08 [[32minfo[39m]: Account 18 - Successfully Get Account Information
+2024-10-25 14:03:08 [[32minfo[39m]: Account 19 - Successfully Get Account Information
+2024-10-25 14:03:08 [[32minfo[39m]: Account 13 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 15 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 15 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 20 - Successfully Get Account Information
+2024-10-25 14:03:08 [[32minfo[39m]: Account 21 - Successfully Get Account Information
+2024-10-25 14:03:08 [[32minfo[39m]: Account 22 - Successfully Get Account Information
+2024-10-25 14:03:08 [[32minfo[39m]: Account 17 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 18 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 19 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 20 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 21 - Getting Account Balance...
+2024-10-25 14:03:08 [[32minfo[39m]: Account 22 - Getting Account Balance...
+2024-10-25 14:03:09 [[32minfo[39m]: Account 1 - Successfully Get Account Balance
+2024-10-25 14:03:10 [[32minfo[39m]: Account 2 - Successfully Get Account Balance
+2024-10-25 14:03:10 [[32minfo[39m]: Account 4 - Successfully Get Account Balance
+2024-10-25 14:03:10 [[32minfo[39m]: Account 3 - Successfully Get Account Balance
+2024-10-25 14:03:10 [[32minfo[39m]: Account 9 - Successfully Get Account Balance
+2024-10-25 14:03:10 [[32minfo[39m]: Account 1 - Requesting Sui Faucet
+2024-10-25 14:03:10 [[32minfo[39m]: Account 10 - Successfully Get Account Balance
+2024-10-25 14:03:10 [[32minfo[39m]: Account 2 - Requesting Sui Faucet
+2024-10-25 14:03:10 [[32minfo[39m]: Account 4 - Requesting Sui Faucet
+2024-10-25 14:03:10 [[32minfo[39m]: Account 3 - Requesting Sui Faucet
+2024-10-25 14:03:10 [[32minfo[39m]: Account 12 - Successfully Get Account Balance
+2024-10-25 14:03:10 [[32minfo[39m]: Account 5 - Successfully Get Account Balance
+2024-10-25 14:03:10 [[32minfo[39m]: Account 9 - Requesting Sui Faucet
+2024-10-25 14:03:11 [[32minfo[39m]: Account 6 - Successfully Get Account Balance
+2024-10-25 14:03:11 [[32minfo[39m]: Account 10 - Requesting Sui Faucet
+2024-10-25 14:03:11 [[32minfo[39m]: Account 7 - Successfully Get Account Balance
+2024-10-25 14:03:11 [[32minfo[39m]: Account 8 - Successfully Get Account Balance
+2024-10-25 14:03:11 [[32minfo[39m]: Account 12 - Requesting Sui Faucet
+2024-10-25 14:03:11 [[32minfo[39m]: Account 5 - Requesting Sui Faucet
+2024-10-25 14:03:11 [[32minfo[39m]: Account 13 - Successfully Get Account Balance
+2024-10-25 14:03:11 [[32minfo[39m]: Account 6 - Requesting Sui Faucet
+2024-10-25 14:03:11 [[32minfo[39m]: Account 13 - Successfully Get Account Balance
+2024-10-25 14:03:11 [[32minfo[39m]: Account 7 - Requesting Sui Faucet
+2024-10-25 14:03:11 [[32minfo[39m]: Account 8 - Requesting Sui Faucet
+2024-10-25 14:03:11 [[32minfo[39m]: Account 13 - Requesting Sui Faucet
+2024-10-25 14:03:12 [[32minfo[39m]: Account 13 - Requesting Sui Faucet
+2024-10-25 14:03:12 [[32minfo[39m]: Account 15 - Successfully Get Account Balance
+2024-10-25 14:03:12 [[32minfo[39m]: Account 15 - Successfully Get Account Balance
+2024-10-25 14:03:12 [[32minfo[39m]: Account 11 - Successfully Get Account Balance
+2024-10-25 14:03:12 [[32minfo[39m]: Account 15 - Requesting Sui Faucet
+2024-10-25 14:03:12 [[32minfo[39m]: Account 15 - Requesting Sui Faucet
+2024-10-25 14:03:13 [[32minfo[39m]: Account 11 - Requesting Sui Faucet
+2024-10-25 14:03:13 [[32minfo[39m]: Account 17 - Successfully Get Account Balance
+2024-10-25 14:03:13 [[32minfo[39m]: Account 18 - Successfully Get Account Balance
+2024-10-25 14:03:13 [[32minfo[39m]: Account 19 - Successfully Get Account Balance
+2024-10-25 14:03:13 [[32minfo[39m]: Account 21 - Successfully Get Account Balance
+2024-10-25 14:03:13 [[32minfo[39m]: Account 20 - Successfully Get Account Balance
+2024-10-25 14:03:13 [[32minfo[39m]: Account 17 - Requesting Sui Faucet
+2024-10-25 14:03:13 [[32minfo[39m]: Account 18 - Requesting Sui Faucet
+2024-10-25 14:03:13 [[32minfo[39m]: Account 19 - Requesting Sui Faucet
+2024-10-25 14:03:13 [[32minfo[39m]: Account 22 - Successfully Get Account Balance
+2024-10-25 14:03:13 [[32minfo[39m]: Account 21 - Requesting Sui Faucet
+2024-10-25 14:03:13 [[32minfo[39m]: Account 20 - Requesting Sui Faucet
+2024-10-25 14:03:14 [[32minfo[39m]: Account 22 - Requesting Sui Faucet
+2024-10-25 14:03:15 [[32minfo[39m]: Account 1 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:15 [[32minfo[39m]: Account 4 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:15 [[32minfo[39m]: Account 2 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:15 [[32minfo[39m]: Account 3 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:16 [[32minfo[39m]: Account 9 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:16 [[32minfo[39m]: Account 10 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:16 [[32minfo[39m]: Account 1 - Checking User NFT
+2024-10-25 14:03:16 [[32minfo[39m]: Account 4 - Checking User NFT
+2024-10-25 14:03:16 [[32minfo[39m]: Account 12 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:16 [[32minfo[39m]: Account 2 - Checking User NFT
+2024-10-25 14:03:16 [[32minfo[39m]: Account 3 - Checking User NFT
+2024-10-25 14:03:16 [[32minfo[39m]: Account 5 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:16 [[32minfo[39m]: Account 9 - Checking User NFT
+2024-10-25 14:03:16 [[32minfo[39m]: Account 6 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:16 [[32minfo[39m]: Account 7 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:16 [[32minfo[39m]: Account 10 - Checking User NFT
+2024-10-25 14:03:16 [[32minfo[39m]: Account 8 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:16 [[32minfo[39m]: Account 12 - Checking User NFT
+2024-10-25 14:03:16 [[32minfo[39m]: Account 19 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:16 [[32minfo[39m]: Account 13 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:17 [[32minfo[39m]: Account 21 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:17 [[32minfo[39m]: Account 5 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 13 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:17 [[32minfo[39m]: Account 6 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 7 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 8 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 22 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:17 [[32minfo[39m]: Account 19 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 13 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 15 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:17 [[32minfo[39m]: Account 21 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 15 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:17 [[32minfo[39m]: Account 13 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 11 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:17 [[32minfo[39m]: Account 22 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 17 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:17 [[32minfo[39m]: Account 18 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:17 [[32minfo[39m]: Account 15 - Checking User NFT
+2024-10-25 14:03:17 [[32minfo[39m]: Account 20 - Too many requests from this client have been sent to the faucet. Please retry later
+2024-10-25 14:03:18 [[32minfo[39m]: Account 15 - Checking User NFT
+2024-10-25 14:03:18 [[32minfo[39m]: Account 11 - Checking User NFT
+2024-10-25 14:03:18 [[32minfo[39m]: Account 17 - Checking User NFT
+2024-10-25 14:03:18 [[32minfo[39m]: Account 18 - Checking User NFT
+2024-10-25 14:03:18 [[32minfo[39m]: Account 20 - Checking User NFT
+2024-10-25 14:03:18 [[32minfo[39m]: Account 1 - You Already Have 4 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:18 [[32minfo[39m]: Account 4 - You Already Have 3 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:18 [[32minfo[39m]: Account 2 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:18 [[32minfo[39m]: Account 3 - You Already Have 2 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:18 [[32minfo[39m]: Account 10 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:19 [[32minfo[39m]: Account 9 - You Already Have 6 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:19 [[32minfo[39m]: Account 12 - You Already Have 2 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:19 [[32minfo[39m]: Account 5 - You Already Have 2 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:19 [[32minfo[39m]: Account 6 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:19 [[32minfo[39m]: Account 7 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:19 [[32minfo[39m]: Account 1 - Try To Exchange Sui to Wal
+2024-10-25 14:03:19 [[32minfo[39m]: Account 4 - Try To Exchange Sui to Wal
+2024-10-25 14:03:19 [[32minfo[39m]: Account 8 - You Already Have 3 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:19 [[32minfo[39m]: Account 2 - Try To Exchange Sui to Wal
+2024-10-25 14:03:19 [[32minfo[39m]: Account 19 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:19 [[32minfo[39m]: Account 13 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:19 [[32minfo[39m]: Account 3 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 10 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 9 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 22 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:20 [[32minfo[39m]: Account 13 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:20 [[32minfo[39m]: Account 12 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 5 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 6 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 15 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:20 [[32minfo[39m]: Account 7 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "4JVnJwAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "e9m7jNRlQkYjM8c51Z7zdUE911vhh8TsXSDVrZD52Xs="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:20 [[32minfo[39m]: Account 1 - Executing Tx ...
+2024-10-25 14:03:20 [[32minfo[39m]: Account 11 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:20 [[32minfo[39m]: Account 15 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:20 [[32minfo[39m]: Account 8 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 4 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 19 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 2 - Try To Exchange Sui to Wal
+2024-10-25 14:03:20 [[32minfo[39m]: Account 13 - Try To Exchange Sui to Wal
+2024-10-25 14:03:21 [[32minfo[39m]: Account 17 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:21 [[32minfo[39m]: Account 21 - You Already Have 3 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:21 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "QI4eLAAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "6gqP4yulG5CBezYKrvBkHJtaOI1tC9kmwJGheV3cUzc="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:21 [[32minfo[39m]: Account 3 - Executing Tx ...
+2024-10-25 14:03:21 [[32minfo[39m]: Account 22 - Try To Exchange Sui to Wal
+2024-10-25 14:03:21 [[32minfo[39m]: Account 13 - Try To Exchange Sui to Wal
+2024-10-25 14:03:21 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "oJGhJwAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "QX/EwXdD6pz6G8pYLYR1I4J6FWOyETvku5MsFQZX8ok="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:21 [[32minfo[39m]: Account 10 - Executing Tx ...
+2024-10-25 14:03:21 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "IHgyNQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "Ska3aaK1zRQ7HFmjTgnKUPWCxqXms5hfAFIzBMXqhA0="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:21 [[32minfo[39m]: Account 9 - Executing Tx ...
+2024-10-25 14:03:21 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "wB7VPAAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "ZIAgUHIc7+ZYYHUgWHjQYZV3PJGMrU6U3DMlVdH4jJ8="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:21 [[32minfo[39m]: Account 12 - Executing Tx ...
+2024-10-25 14:03:21 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "4GG9KAAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "uwrLcylmnAc48T3zxZwJVKKiVjbHkxAp7kbBYT/YxBk="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:21 [[32minfo[39m]: Account 5 - Executing Tx ...
+2024-10-25 14:03:21 [[32minfo[39m]: Account 18 - You Already Have 3 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:21 [[32minfo[39m]: Account 15 - Try To Exchange Sui to Wal
+2024-10-25 14:03:21 [[32minfo[39m]: Account 20 - You Already Have 1 of 0x4cb65566af16acb9ae48c437e99653e77c06c1b712329486987223ca99f44575::flatland::Flatlander
+2024-10-25 14:03:21 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "gKp1KAAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "N8KBC8MHFvFPbMp77AAJifF0ZeV5oNImjnod3le6XJQ="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:21 [[32minfo[39m]: Account 6 - Executing Tx ...
+2024-10-25 14:03:21 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "AKuQQQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "ODr9IWEf2XDFy1bd+ELPQvJDisqXVWqESM3y3cdw0bI="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:21 [[32minfo[39m]: Account 7 - Executing Tx ...
+2024-10-25 14:03:21 [[32minfo[39m]: Account 11 - Try To Exchange Sui to Wal
+2024-10-25 14:03:21 [[32minfo[39m]: Account 15 - Try To Exchange Sui to Wal
+2024-10-25 14:03:21 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "QHX2IQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "d+hH7573zr6+2HixpYj0nT67t/KxwimizJkog28+mgQ="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:21 [[32minfo[39m]: Account 8 - Executing Tx ...
+2024-10-25 14:03:22 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "oAulMQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "x/VIbHRUpRuUceR4vlcTGIWes19DlGDz1GjQRAcQuSw="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:22 [[32minfo[39m]: Account 4 - Executing Tx ...
+2024-10-25 14:03:22 [[32minfo[39m]: Account 17 - Try To Exchange Sui to Wal
+2024-10-25 14:03:22 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "IP5jNwAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "sXDqG/0m5L9xaTmVQKpggMX0XwDRMyz0uwaQXXHV1w8="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:22 [[32minfo[39m]: Account 19 - Executing Tx ...
+2024-10-25 14:03:22 [[32minfo[39m]: Account 21 - Try To Exchange Sui to Wal
+2024-10-25 14:03:22 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "wGT5OwAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "J4WxIPuTNpNeEzR+tje61OwtQklEOtXh8NRI7NhpoSE="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:22 [[32minfo[39m]: Account 2 - Executing Tx ...
+2024-10-25 14:03:22 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "YBsdNQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "nKAS27nSj6MX517F0yg2PD+lqemNI1/E904MxoHez60="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:22 [[32minfo[39m]: Account 13 - Executing Tx ...
+2024-10-25 14:03:22 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "wDN1QQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "6Bp0iG4REiivlEUYYNpF/o3klOnQPZvqDGz31yJLp1g="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:22 [[32minfo[39m]: Account 22 - Executing Tx ...
+2024-10-25 14:03:22 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "YPrkHwAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "nKAS27nSj6MX517F0yg2PD+lqemNI1/E904MxoHez60="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:22 [[32minfo[39m]: Account 13 - Executing Tx ...
+2024-10-25 14:03:22 [[32minfo[39m]: Account 18 - Try To Exchange Sui to Wal
+2024-10-25 14:03:22 [[32minfo[39m]: Account 20 - Try To Exchange Sui to Wal
+2024-10-25 14:03:22 [[32minfo[39m]: Account 15 - Try To Exchange Sui to Wal
+2024-10-25 14:03:24 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "QK1dMgAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "BFDTvnemelCLlw27knrbY/mQigJgf4vQnpJWQxmgpPY="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:24 [[32minfo[39m]: Account 11 - Executing Tx ...
+2024-10-25 14:03:24 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "APSlOAAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "hRbpIe6WNXk3Cc28SFbpdVPITAyIisauUA95wYAXLv8="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:24 [[32minfo[39m]: Account 15 - Executing Tx ...
+2024-10-25 14:03:25 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "IOJKNQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "b8VBhi0vbGjfq2cEW3xZvp/dY7YQZVPKJIZdol6Lspw="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:25 [[32minfo[39m]: Account 17 - Executing Tx ...
+2024-10-25 14:03:25 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "gFm6PgAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "Fxt3SPa0nBQmxZ7Kit0ywKiCItLzOtP0El6wKbpJ2J0="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:25 [[32minfo[39m]: Account 21 - Executing Tx ...
+2024-10-25 14:03:25 [[32minfo[39m]: Account 1 - Tx Executed : https://testnet.suivision.xyz/txblock/Ewf5JnFCi1UPD4tTpZtYsAkxXLNQ8Rv7oeejpVXiX9dz
+2024-10-25 14:03:26 [[32minfo[39m]: Account 3 - Tx Executed : https://testnet.suivision.xyz/txblock/4Ezj6PSEogWyQCK584GBDF2iVefMAE1JQKtg8vbeqNvU
+2024-10-25 14:03:26 [[32minfo[39m]: Account 10 - Tx Executed : https://testnet.suivision.xyz/txblock/5BjtPP4FxDLieS3UPkdXHPwf1LX1Fr1iry4GPYyWs6Xw
+2024-10-25 14:03:26 [[32minfo[39m]: Account 9 - Tx Executed : https://testnet.suivision.xyz/txblock/4Esmi5mMjEURU2qkyQ7epNNiWRCMSUffKdRvPXF4ER4a
+2024-10-25 14:03:26 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "YAeqJQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "zHRE4CKztmxHyrop86UuOSOOCcHqesbj5abf2wRAI4s="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:26 [[32minfo[39m]: Account 18 - Executing Tx ...
+2024-10-25 14:03:26 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "oGAdLQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "qbwlvqnHrL2gvdlkEHpYgpPsu8EQDWsZDX32N9JHCMM="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:26 [[32minfo[39m]: Account 20 - Executing Tx ...
+2024-10-25 14:03:26 [[32minfo[39m]: Account 12 - Tx Executed : https://testnet.suivision.xyz/txblock/9CAUtiSFPGu54MAWs6XmxZscKfph5VhxXCEMhZMq5cfW
+2024-10-25 14:03:26 [[32minfo[39m]: Account 5 - Tx Executed : https://testnet.suivision.xyz/txblock/3pkWbi6Btcc9wdWbKayppdB2sKBo2W9FSRNq9hT7ziBX
+2024-10-25 14:03:26 [[32minfo[39m]: {
+  "version": 2,
+  "sender": null,
+  "expiration": null,
+  "gasData": {
+    "budget": "1500000",
+    "price": null,
+    "owner": null,
+    "payment": null
+  },
+  "inputs": [
+    {
+      "Object": {
+        "SharedObject": {
+          "objectId": "0x0e60a946a527902c90bbc71240435728cd6dc26b9e8debc69f09b71671c3029b",
+          "initialSharedVersion": 182020000,
+          "mutable": true
+        }
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "oChVQQAAAAA="
+      }
+    },
+    {
+      "Pure": {
+        "bytes": "hRbpIe6WNXk3Cc28SFbpdVPITAyIisauUA95wYAXLv8="
+      }
+    }
+  ],
+  "commands": [
+    {
+      "SplitCoins": {
+        "coin": {
+          "GasCoin": true
+        },
+        "amounts": [
+          {
+            "Input": 1
+          }
+        ]
+      }
+    },
+    {
+      "MoveCall": {
+        "package": "0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef",
+        "module": "wal_exchange",
+        "function": "exchange_all_for_wal",
+        "typeArguments": [],
+        "arguments": [
+          {
+            "Input": 0
+          },
+          {
+            "Result": 0
+          }
+        ]
+      }
+    },
+    {
+      "TransferObjects": {
+        "objects": [
+          {
+            "Result": 1
+          }
+        ],
+        "address": {
+          "Input": 2
+        }
+      }
+    }
+  ]
+}
+2024-10-25 14:03:26 [[32minfo[39m]: Account 15 - Executing Tx ...
+2024-10-25 14:03:27 [[32minfo[39m]: Account 1 - Merging Coin
+2024-10-25 14:03:27 [[32minfo[39m]: Account 3 - Merging Coin
+2024-10-25 14:03:27 [[32minfo[39m]: Account 10 - Merging Coin
+2024-10-25 14:03:27 [[32minfo[39m]: Account 9 - Merging Coin
+2024-10-25 14:03:27 [[32minfo[39m]: Account 12 - Merging Coin
+2024-10-25 14:03:28 [[32minfo[39m]: Account 5 - Merging Coin
+2024-10-25 14:03:28 [[32minfo[39m]: Account 8 - Tx Executed : https://testnet.suivision.xyz/txblock/EcLQhDs1eJL4ELFwotdcjs3J2T1y7GRtQaVboSDhr7o4
+2024-10-25 14:03:28 [[32minfo[39m]: Account 1 - No Need to Merge Coin
+2024-10-25 14:03:29 [[32minfo[39m]: Account 6 - Tx Executed : https://testnet.suivision.xyz/txblock/HdvvaZ6yxN9rdKvMEZTt9xiwjWqVcv49s1A78nWXH321
+2024-10-25 14:03:29 [[32minfo[39m]: Account 3 - No Need to Merge Coin
+2024-10-25 14:03:29 [[32minfo[39m]: Account 10 - No Need to Merge Coin
+2024-10-25 14:03:29 [[32minfo[39m]: Account 8 - Merging Coin
+2024-10-25 14:03:29 [[32minfo[39m]: Account 9 - No Need to Merge Coin
+2024-10-25 14:03:29 [[32minfo[39m]: Account 12 - No Need to Merge Coin
+2024-10-25 14:03:29 [[32minfo[39m]: Account 5 - No Need to Merge Coin
+2024-10-25 14:03:29 [[32minfo[39m]: Account 6 - Merging Coin
+2024-10-25 14:03:29 [[32minfo[39m]: Account 7 - Tx Executed : https://testnet.suivision.xyz/txblock/3e744YWaMwwi44hNie4dYUVbZGBEMtoRCc7JdrUy2eke
+2024-10-25 14:03:29 [[32minfo[39m]: Account 1 - Try To Exchange Back Wal to Sui
+2024-10-25 14:03:29 [[32minfo[39m]: Account 15 - Try To Exchange Sui to Wal
+2024-10-25 14:03:30 [[32minfo[39m]: Account 4 - Tx Executed : https://testnet.suivision.xyz/txblock/9zKBGiRYEbn8MiTXooiGdC95E6AfemVfSkNvyfN7bS8N
+2024-10-25 14:03:30 [[32minfo[39m]: Account 3 - Try To Exchange Back Wal to Sui
+2024-10-25 14:03:30 [[32minfo[39m]: Account 10 - Try To Exchange Back Wal to Sui
+2024-10-25 14:03:30 [[32minfo[39m]: Account 9 - Try To Exchange Back Wal to Sui
+2024-10-25 14:03:30 [[32minfo[39m]: Account 7 - Merging Coin
+2024-10-25 14:03:30 [[32minfo[39m]: Account 8 - No Need to Merge Coin
+2024-10-25 14:03:30 [[32minfo[39m]: Account 12 - Try To Exchange Back Wal to Sui
+2024-10-25 14:03:30 [[32minfo[39m]: Account 19 - Tx Executed : https://testnet.suivision.xyz/txblock/G4RXYNpN2PciVhyjWp53M21gWifLkHtBczd6gERHZFEi
